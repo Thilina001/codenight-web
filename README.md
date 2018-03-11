@@ -10,3 +10,6 @@ git push -u origin master<br>
 git remote add origin url<br>
 git push -u origin master<br>
 </ol?
+  
+  clone this repository
+git clone url
